@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/THEsoham/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/THEsoham/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/THEsoham/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/THEsoham/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THEsoham/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THEsoham/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -27,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/THEsoham/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/THEsoham/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -37,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/THEsoham/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/THEsoham/leetcode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
