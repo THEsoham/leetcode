@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/THEsoham/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/THEsoham/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THEsoham/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/THEsoham/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/THEsoham/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/THEsoham/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/THEsoham/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/THEsoham/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -50,8 +53,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/THEsoham/leetcode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/THEsoham/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/THEsoham/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/THEsoham/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
