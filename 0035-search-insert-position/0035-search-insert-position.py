@@ -5,9 +5,23 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        
-        for i in range(len(nums)):
-            if nums[i] >= target:
-                return i
 
-        return len(nums)
+        left = 0
+        right = len(nums)-1
+
+        while left <= right:
+            mid = (left + right)//2
+
+            if nums[mid] < target:
+                left = mid + 1
+            elif nums[mid] > target:
+                right = mid - 1
+            elif nums[mid] == target:
+                return mid
+        else:
+            return left
+
+
+# Synced seamlessly with LeetHub Pro
+# Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+# Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
