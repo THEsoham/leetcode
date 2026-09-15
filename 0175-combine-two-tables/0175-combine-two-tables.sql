@@ -1,0 +1,12 @@
+SELECT 
+    firstName, lastName, City, State
+FROM 
+    Address RIGHT JOIN Person
+ON 
+    Person.personId = Address.personId;
+
+
+
+-- Synced seamlessly with LeetHub Pro
+-- Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+-- Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
