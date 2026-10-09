@@ -1,13 +1,9 @@
 class Solution(object):
 
     def mark_inf(self, matrix, row, col, r, c):
-
-        # mark entire column
         for i in range(r):
             if matrix[i][col] != 0:
                 matrix[i][col] = float('inf')
-
-        # mark entire row
         for j in range(c):
             if matrix[row][j] != 0:
                 matrix[row][j] = float('inf')
@@ -27,7 +23,6 @@ class Solution(object):
                 if matrix[i][j] == 0:
                     self.mark_inf(matrix, i, j, r, c)
 
-        # convert all inf to 0
         for i in range(r):
             for j in range(c):
                 if matrix[i][j] == float('inf'):
