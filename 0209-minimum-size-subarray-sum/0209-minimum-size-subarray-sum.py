@@ -1,22 +1,18 @@
-class Solution:
-    def minSubArrayLen(self, target: int, nums: list[int]) -> int:
+class Solution(object):
+    def minSubArrayLen(self, target, nums):
         left = 0
+        total = 0
         best = float('inf')
-        sum_ = 0
 
-        for right in range(len(nums)):         
-            sum_ = sum_ + nums[right]
-            while sum_ >= target:
-                best = min(best, right - left + 1)   
-                sum_ = sum_ - nums[left]
-                left += 1                        
+        for right in range(len(nums)):
+            total += nums[right]
 
-        if best == float('inf'):
-            return 0
-        else:
-            return best
+            while total >= target:
+                best = min(best, right - left + 1)
+                total -= nums[left]
+                left += 1
 
-        
+        return 0 if best == float('inf') else best
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
